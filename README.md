@@ -1,0 +1,2 @@
+# Fwendbot
+Test Discord Bot
